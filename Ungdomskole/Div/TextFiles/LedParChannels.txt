@@ -1,0 +1,10 @@
+﻿LED Par 1 Marconi LED Spot 7x10w rgbw
+
+198 = Intensity		(Offset 0)
+199 = Red			(Offset 1)
+200 = Green			(Offset 2)
+201 = Blue			(Offset 3)
+202 = White			(Offset 4)
+203 = Auto			(Offset 5)
+198 = ???			(Offset 6)
+198 = Strope		(Offset 7)

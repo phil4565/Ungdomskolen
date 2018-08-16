@@ -1,0 +1,31 @@
+﻿	Wash 1		BeamZ MHL115
+
+8 = Pan					(offset 0)
+9 = Tilt				(offset 1)
+10 = ???				(offset 2)
+11 = Tilt Speed			(offset 3)	255 = slow
+12 = Intensity			(offset 4)
+13 = Red				(offset 5)
+14 = Green				(offset 6)	
+15 = Blue				(offset 7)
+16 = Strope				(offset 8)
+17 = Auto Color Change	(offset 9)
+18 = Color Matrix		(offset 10)
+19 = Auto Color Fade	(offset 11)
+20 = ???				(offset 12)
+
+	Wash 2		BeamZ MHL115
+
+75 = Pan				(offset 0)
+76 = Tilt				(offset 1)
+77 = ???				(offset 2)
+78 = Tilt Speed			(offset 3)	255 = slow
+79 = Intensity			(offset 4)
+80 = Red				(offset 5)
+81 = Green				(offset 6)	
+82 = Blue				(offset 7)
+83 = Strope				(offset 8)
+84 = Auto Color Change	(offset 9)
+85 = Color Matrix		(offset 10)
+86 = Auto Color Fade	(offset 11)
+87 = ???				(offset 12)

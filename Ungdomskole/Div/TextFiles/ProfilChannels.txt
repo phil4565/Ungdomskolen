@@ -1,0 +1,65 @@
+﻿	PROFIL 1		Cameo clmhrgb60w
+
+23 = Pan			(offset 0)
+24 = Tilt			(offset 1)
+25 = ???			(offset 2)
+26 = Color			(offset 3)	0-127 Solid color. 128-255 Color change
+27 = Gobo			(offset 4)
+28 = Gobo rotation	(offset 5)
+29 = Strope			(offset 6)	0-127 Strope. 128-201 shutter. 202-255 Stable
+30 = Intesity		(offset 7)
+31 = Fokus			(offset 8)
+32 = Split			(offset 9)
+33 = Auto			(offset 10)
+34 = precision Pan	(offset 11)
+35 = Precision Tilt	(offset 12)
+
+			PROFIL 2
+
+36 = Pan			(offset 0)
+37 = Tilt			(offset 1)
+38 = ???			(offset 2)
+39 = Color			(offset 3)	0-127 Solid color. 128-255 Color change
+40 = Gobo			(offset 4)
+41 = Gobo rotation	(offset 5)
+42 = Strope			(offset 6)	0-127 Strope. 128-201 shutter. 202-255 Stable
+43 = Intesity		(offset 7)
+44 = Fokus			(offset 8)
+45 = Split			(offset 9)
+46 = Auto			(offset 10)
+47 = precision Pan	(offset 11)
+48 = Precision Tilt	(offset 12
+
+
+			PROFIL 3
+
+49 = Pan			(offset 0)
+50 = Tilt			(offset 1)
+51 = ???			(offset 2)
+52 = Color			(offset 3)	0-127 Solid color. 128-255 Color change
+53 = Gobo			(offset 4)
+54 = Gobo rotation	(offset 5)
+55 = Strope			(offset 6)	0-127 Strope. 128-201 shutter. 202-255 Stable
+56 = Intesity		(offset 7)
+57 = Fokus			(offset 8)
+58 = Split			(offset 9)
+59 = Auto			(offset 10)
+60 = precision Pan	(offset 11)
+61 = Precision Tilt	(offset 12)
+
+
+			PROFIL 4
+
+62 = Pan			(offset 0)
+63 = Tilt			(offset 1)
+64 = ???			(offset 2)
+65 = Color			(offset 3)	0-127 Solid color. 128-255 Color change
+66 = Gobo			(offset 4)
+67 = Gobo rotation	(offset 5)
+68 = Strope			(offset 6)	0-127 Strope. 128-201 shutter. 202-255 Stable
+69 = Intesity		(offset 7)
+70 = Fokus			(offset 8)
+71 = Split			(offset 9)
+72 = Auto			(offset 10)
+73 = precision Pan	(offset 11)
+74 = Precision Tilt	(offset 12)

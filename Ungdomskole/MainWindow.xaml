@@ -1,0 +1,43 @@
+﻿<Window x:Class="Ungdomskole.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ungdomskole"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="471" Width="843.5">
+    <Grid Margin="0,0,-8,-20">
+        <Button x:Name="Snow_Button" Content="Snow" HorizontalAlignment="Left" Margin="64,56,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Smoke_Button" Content="Smoke" HorizontalAlignment="Left" Margin="64,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="LedShow1_Button" Content="Show1" HorizontalAlignment="Left" Margin="304,56,0,0" VerticalAlignment="Top" Width="76" Click="LedShow1_Button_Click"/>
+        <Button x:Name="ProfilShow1_Button" Content="Show1" HorizontalAlignment="Left" Margin="436,56,0,0" VerticalAlignment="Top" Width="76" Click="ProfilShow1_Button_Click"/>
+        <Button x:Name="WashShow1_Button" Content="Show1" HorizontalAlignment="Left" Margin="596,56,0,0" VerticalAlignment="Top" Width="75" Click="WashShow1_Button_Click"/>
+        <Button x:Name="StropeShow1_Button" Content="Show1" HorizontalAlignment="Left" Margin="723,56,0,0" VerticalAlignment="Top" Width="76" Click="StropeShow1_Button_Click"/>
+        <Button x:Name="LedShow2_Button" Content="Show2" HorizontalAlignment="Left" Margin="304,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="LedShow3_Button" Content="Show3" HorizontalAlignment="Left" Margin="304,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="LedShow4_Button" Content="Show4" HorizontalAlignment="Left" Margin="305,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="ProfilShow2_Button" Content="Show2" HorizontalAlignment="Left" Margin="436,100,0,0" VerticalAlignment="Top" Width="75" Click="ProfilShow2_Button_Click"/>
+        <Button x:Name="ProfilShow3_Button" Content="Show3" HorizontalAlignment="Left" Margin="436,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="ProfilShow4_Button" Content="Show4" HorizontalAlignment="Left" Margin="436,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="WashShow2_Button" Content="Show2" HorizontalAlignment="Left" Margin="596,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="WashShow4_Button" Content="Show4" HorizontalAlignment="Left" Margin="596,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="WashShow3_Button" Content="Show3" HorizontalAlignment="Left" Margin="596,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="StropeShow2_Button" Content="Show2" HorizontalAlignment="Left" Margin="723,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="StropeShow3_Button" Content="Show3" HorizontalAlignment="Left" Margin="723,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="StropeShow4_Button" Content="Show4" HorizontalAlignment="Left" Margin="723,192,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Diverse" HorizontalAlignment="Left" Margin="64,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Led" HorizontalAlignment="Left" Margin="305,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Profil" HorizontalAlignment="Left" Margin="436,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Wash" HorizontalAlignment="Left" Margin="596,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Strope" HorizontalAlignment="Left" Margin="723,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cosmos" HorizontalAlignment="Left" Margin="192,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="CosmosShow1_Button" Content="Show1" HorizontalAlignment="Left" Margin="192,56,0,0" VerticalAlignment="Top" Width="75" Click="CosmosShow1_Button_Click"/>
+        <Button x:Name="CosmosShow4_Button" Content="Show4" HorizontalAlignment="Left" Margin="192,192,0,0" VerticalAlignment="Top" Width="75" Click="CosmosShow4_Button_Click"/>
+        <Button x:Name="CosmosShow3_Button" Content="Show3" HorizontalAlignment="Left" Margin="192,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="CosmosShow2_Button" Content="Show2" HorizontalAlignment="Left" Margin="192,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Statusbox" HorizontalAlignment="Left" Height="24" Margin="488,412,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="330"/>
+        <Button x:Name="CosmoOff_Button" Content="Off" HorizontalAlignment="Left" Margin="192,334,0,0" VerticalAlignment="Top" Width="75" Click="CosmoOff_Button_Click"/>
+
+    </Grid>
+</Window>

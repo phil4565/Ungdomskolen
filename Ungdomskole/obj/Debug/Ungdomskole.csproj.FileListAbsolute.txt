@@ -1,0 +1,15 @@
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\bin\Debug\Ungdomskole.exe.config
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\bin\Debug\Ungdomskole.exe
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\bin\Debug\Ungdomskole.pdb
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.csprojResolveAssemblyReference.cache
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\MainWindow.g.cs
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\App.g.cs
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole_MarkupCompile.cache
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole_MarkupCompile.lref
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\MainWindow.baml
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.g.resources
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.Properties.Resources.resources
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.csproj.GenerateResource.cache
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.csproj.CoreCompileInputs.cache
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.exe
+C:\Users\Thinggaard\source\repos\Ungdomskole\Ungdomskole\obj\Debug\Ungdomskole.pdb
